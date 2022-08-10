@@ -1,0 +1,12 @@
+{
+  "domain": "airthings_wave_plus",
+  "name": "Airthings Wave Plus",
+  "version": "1.0.0",
+  "documentation": "https://github.com/lone-cloud/sensor.airthings_wave_plus",
+  "issue_tracker": "https://github.com/lone-cloud/sensor.airthings_wave_plus/issues",
+  "dependencies": [],
+  "codeowners": ["@lone-cloud"],
+  "requirements": [],
+  "config_flow": false,
+  "bluetooth": []
+}

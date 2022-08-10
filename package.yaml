@@ -1,0 +1,15 @@
+author:
+  email: egor@philippov.ca
+  homepage: https://github.com/lone-cloud
+  name: Egor Philippov
+description: ☢ Airthings Wave Plus component
+files:
+  - custom_components/airthings_wave/__init__.py
+  - custom_components/airthings_wave/sensor.py
+keywords:
+  - airthings
+  - homeassistant
+  - home-assistant
+license: MIT License
+name: sensor.airthings_wave_plus
+type: component
